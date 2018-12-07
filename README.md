@@ -12,7 +12,10 @@ Medical AI research center, Shenzhen Institutes of Advanced Technology, Chinese 
 EDAEPRec - Enhanced Denoising Autoencoder Prior for Reconstruction  
 
 ## The flowchart of EDAEPRec
-![](./figs/fig1.png)
+![](./figs/fig1.png)  
+Top：The network learning phase. 
+Bottom: The MRI reconstruction phase.  
+, DLMRI, PANO, NLR-CS; FDLCP, DC-CNN, DAEPRec, EDAEPRec
 ## Reconstruction results by various methods at 85% 1D Cartesian undersampling.
-![](./figs/compare_fig.png)
+![](./figs/compare_fig.png)  
 From Top to Bottom and from Left to Right：ground-truth, DLMRI, PANO, NLR-CS; FDLCP, DC-CNN, DAEPRec, EDAEPRec. 
