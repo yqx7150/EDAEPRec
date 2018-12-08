@@ -1,6 +1,6 @@
 %% The Code is created based on the method described in the following paper:
 % Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors, Submitted to Magnetic Resonance in Medicine, 2018.
-% Author: Q. Liu, Q. Yang, H. Zhou, S. Wang, M. Zhang, D. Liang.
+% Author: Q. Liu, Q. Yang, H. Cheng, S. Wang, M. Zhang, D. Liang.
 % Date : 11/2018
 % Version : 1.0
 % The code and the algorithm are for non-comercial use only.
