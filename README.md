@@ -19,5 +19,8 @@ Top：The network learning phase. Bottom: The MRI reconstruction phase.
 From Top to Bottom and from Left to Right：Ground-truth, DLMRI, PANO, NLR-CS; FDLCP, DC-CNN, DAEPRec, EDAEPRec. 
 
 ## Test data
-
 In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were acquired by using a 3D fast-spin-echo (FSE) sequence with T2 weighting from a 3.0T whole body MR system (SIEMENS MAGNETOM TrioTim).
+
+[paper](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)
+
+## Other Related Projects
