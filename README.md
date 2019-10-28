@@ -22,7 +22,13 @@ From Top to Bottom and from Left to Right：Ground-truth, DLMRI, PANO, NLR-CS; F
 In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were acquired by using a 3D fast-spin-echo (FSE) sequence with T2 weighting from a 3.0T whole body MR system (SIEMENS MAGNETOM TrioTim).
 
 ## [<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)
-Liu Q, Yang Q, Cheng H, et al. Highly undersampled magnetic resonance imaging reconstruction using autoencoding priors[J]. Magnetic resonance in medicine, 2019.
+    @article{liu2019highly,  
+    title={Highly undersampled magnetic resonance imaging reconstruction using autoencoding priors},  
+    author={Liu, Qiegen and Yang, Qingxin and Cheng, Huitao and Wang, Shanshan and Zhang, Minghui and Liang, Dong},  
+    journal={Magnetic resonance in medicine},  
+    year={2019},  
+    publisher={Wiley Online Library}  
+    }
 ## Other Related Projects
 [<font size=5>**[MEDAEP]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf): Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
 
