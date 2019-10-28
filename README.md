@@ -11,17 +11,17 @@ Medical AI research center, Shenzhen Institutes of Advanced Technology, Chinese 
 
 EDAEPRec - Enhanced Denoising Autoencoder Prior for Reconstruction  
 
-## The flowchart of EDAEPRec
+## The Flowchart of EDAEPRec
 ![](./figs/fig1.png)  
 Top：The network learning phase. Bottom: The MRI reconstruction phase.   
 ## Reconstruction results by various methods at 85% 2D random undersampling.
 ![](./figs/compare_fig.png)  
 From Top to Bottom and from Left to Right：Ground-truth, DLMRI, PANO, NLR-CS; FDLCP, DC-CNN, DAEPRec, EDAEPRec. 
 
-## Test data
+## Test Data
 In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were acquired by using a 3D fast-spin-echo (FSE) sequence with T2 weighting from a 3.0T whole body MR system (SIEMENS MAGNETOM TrioTim).
 
-## [<font size=5>**[paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)
+## [<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)
 
 ## Other Related Projects
 [<font size=5>**[MEDAEP]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf):Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration
