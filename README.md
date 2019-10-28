@@ -14,7 +14,7 @@ EDAEPRec - Enhanced Denoising Autoencoder Prior for Reconstruction
 ## The Flowchart of EDAEPRec
 ![](./figs/fig1.png)  
 Top：The network learning phase. Bottom: The MRI reconstruction phase.   
-## Reconstruction results by various methods at 85% 2D random undersampling.
+## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
 ![](./figs/compare_fig.png)  
 From Top to Bottom and from Left to Right：Ground-truth, DLMRI, PANO, NLR-CS; FDLCP, DC-CNN, DAEPRec, EDAEPRec. 
 
