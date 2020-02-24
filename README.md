@@ -38,3 +38,7 @@ In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were a
 
   * Learning Priors in High-frequency Domain for Inverse Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1910/1910.11148.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
+
+  * Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320318302700)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MDAEP-SR)
+
