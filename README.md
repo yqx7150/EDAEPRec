@@ -32,7 +32,7 @@ In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were a
 
 ## Other Related Projects
   * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
-[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
   * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
  [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
