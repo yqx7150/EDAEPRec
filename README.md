@@ -43,3 +43,5 @@ In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were a
   * Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320318302700)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MDAEP-SR)
 
+  * Complex-valued MRI data from SIAT  
+[<font size=5>**[Data]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/test_data_31)
