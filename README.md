@@ -45,3 +45,6 @@ In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were a
 
   * Complex-valued MRI data from SIAT  
 [<font size=5>**[Data]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/test_data_31)
+
+  * REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction  
+[<font size=5>**[Code]**</font>](https://github.com/yqx7150/REDAEP)
