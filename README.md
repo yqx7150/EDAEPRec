@@ -45,7 +45,10 @@ In file './test_data_31', 31 complex-valued MRI data with size of 256x256 were a
 
   * Deep Frequency-Recurrent Priors for Inverse Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S0165168421003571)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
- 
+
+  * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
+    
   * Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320318302700)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MDAEP-SR)
 
